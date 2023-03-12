@@ -1,0 +1,82 @@
+{
+    "whitelist": [
+        {
+            "id": "mfehgcgbbipciphmccgaenjidiccnmng",
+            "description": "Cloud Print"
+        },
+        {
+            "id": "cffkpbalmllkdoenhmdmpbkajipdjfam",
+            "description": "Broowzer Ad Block Updater"
+        },
+        {
+            "id": "afalakplffnnnlkncjhbmahjfjhmlkal",
+            "description": "Broowzer Local Data Files Updater"
+        },
+        {
+            "id": "cpoalefficncklhjfpglfiplenlpccdb",
+            "description": "Broowzer Tor Client Updater (Windows)"
+        },
+        {
+            "id": "cldoidikboihgcjfkhdeidbpclkineef",
+            "description": "Broowzer Tor Client Updater (Mac)"
+        },
+        {
+            "id": "biahpgbdmdkfgndcmfiipgcebobojjkp",
+            "description": "Broowzer Tor Client Updater (Linux)"
+        },
+        {
+            "id": "aapnijgdinlhnhlmodcfapnahmbfebeb",
+            "description": "Broowzer Automation Extension"
+        },
+        {
+            "id": "ahfgeienlihckogmohjhadlkjgocpleb",
+            "description": "Web Store"
+        },
+        {
+            "id": "oofiananboodjbbmdelgdommihjbkfag",
+            "description": "Broowzer HTTPS Everywhere Updater"
+        },
+        {
+            "id": "nimfmkdcckklbkhjjkmbjfcpaiifgamg",
+            "description": "Broowzer Talk for Google Calendar"
+        },
+        {
+            "id": "mafpmfcccpbjnhfhjnllmmalhifmlcie",
+            "description": "Snowflake"
+        },
+        {
+            "id": "naccapggpomhlhoifnlebfoocegenbol",
+            "description": "Test ID: Broowzer Default Ad Block Updater"
+        },
+        {
+            "id": "dlpmaigjliompnelofkljgcmlenklieh",
+            "description": "Test ID: Broowzer Regional Ad Block Updater (9852EFC4-99E4-4F2D-A915-9C3196C7A1DE)"
+        },
+        {
+            "id": "eclbkhjphkhalklhipiicaldjbnhdfkc",
+            "description": "Test ID: Broowzer Local Data Files Updater"
+        },
+        {
+            "id": "kpbdcmcgkedhpbcpfndimofjnefgjidd",
+            "description": "Test ID: PDFJS"
+        },
+        {
+            "id": "bhlmpjhncoojbkemjkeppfahkglffilp",
+            "description": "Test ID: Broowzer HTTPS Everywhere Updater"
+        },
+        {
+            "id": "ngicbhhaldfdgmjhilmnleppfpmkgbbk",
+            "description": "Test ID: Broowzer Tor Client Updater"
+        },
+        {
+            "id": "mhjfbmdgcfjbbpaeojofohoefgiehjai",
+            "description": "Chromium PDF Viewer"
+        }
+    ],
+    "blacklist": [
+        {
+            "id": "mlklomjnahgiddgfdgjhibinlfibfffc",
+            "description": "Used for tests, corresponds to broowzer/test/data/should-be-blocked-extension."
+        }
+    ]
+}
